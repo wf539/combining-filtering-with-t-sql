@@ -1,4 +1,7 @@
 # combining-filtering-with-t-sql
+
+Zipped databases are found at: https://github.com/tamara-pattinson/combining-filtering-with-t-sql
+
 If you are unable to attach the databases located in the zip file, use the following steps:
 
 1.  Using SSMS, create 2 databases, Northwind and pubs
