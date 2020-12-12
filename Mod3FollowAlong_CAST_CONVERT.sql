@@ -171,7 +171,7 @@ SELECT
 FROM [dbo].[ColorTable2];
 
 
---This no throws error: Msg 245, Level 16, State 1, Line 173 Conversion failed when converting the varchar value 'one' to data type int.
+--This now throws error: Msg 245, Level 16, State 1, Line 173 Conversion failed when converting the varchar value 'one' to data type int.
 SELECT
 *
 FROM [dbo].[ColorTable1]
